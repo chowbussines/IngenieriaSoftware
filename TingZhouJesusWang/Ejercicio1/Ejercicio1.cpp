@@ -2,7 +2,7 @@
 //
 // hola esto es una prueba, xd
 
-//ya no existe
+//esto para el ejercicio2
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
