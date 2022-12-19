@@ -1,6 +1,8 @@
 // Ejercicio1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 // hola esto es una prueba, xd
+
+//esto es para el 2
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
