@@ -1,0 +1,5 @@
+﻿  Ejercicio1.cpp
+C:\Users\Tingzhou.wang\source\Ingenieria del software\IngenieriaSoftware\TingZhouJesusWang\Ejercicio1\Ejercicio1.cpp(76,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Tingzhou.wang\source\Ingenieria del software\IngenieriaSoftware\TingZhouJesusWang\Ejercicio1\Ejercicio1.cpp(76,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Tingzhou.wang\source\Ingenieria del software\IngenieriaSoftware\TingZhouJesusWang\Ejercicio1\Ejercicio1.cpp(175,14): warning C4101: 'tFuncsEnt0': unreferenced local variable
+  Ejercicio1.vcxproj -> C:\Users\Tingzhou.wang\source\Ingenieria del software\IngenieriaSoftware\TingZhouJesusWang\x64\Debug\Ejercicio1.exe
